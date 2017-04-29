@@ -1,0 +1,37 @@
+AgStat
+
+1. Monthly weather summary (for the 12 months)
+		rainfall
+		Potentiol evapotranspiration
+		Max temp
+		Min temp
+		RH% (morning & evening)
+		Wind speed
+		Bright sunshine hours
+
+Mahaillapperuma, Aralaganwila, Weerawila, Agunakolapalessa, Sita eliya,
+Bombuwela, Preadeniya, Rathnapura, Batalagoda, Monaragala, Bandarawela,
+Kundasale
+
+4.1. Extent, production and average yield of other fiels crops, roots and tuber crops table - 2013 / 2014 (pg:16)
+		Soya bean
+		Red onion
+		Chillie
+		Potato
+
+4.4. Farmgate prices
+4.4.1. Wholesale and retail prices
+4.5. Cost of cultivation (Toatal cost, Net return and Unit cost)
+5.1. Extent, production and average yield of vegetables
+		Extent(ha)
+		Production(metric ton)
+		Average yield(mt/ha)
+				Cabbage
+				Carrot
+				Leeks
+				Brinjal
+6.1. Extent and production of fruit crops
+			Banana
+			Mango
+8.1. Export agricultural crops
+			Cinnamon
