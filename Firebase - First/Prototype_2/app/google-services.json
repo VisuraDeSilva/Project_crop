@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "64962998833",
+    "firebase_url": "https://smart-cropseer.firebaseio.com",
+    "project_id": "smart-cropseer",
+    "storage_bucket": "smart-cropseer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64962998833:android:474496a6ef840ef3",
+        "android_client_info": {
+          "package_name": "com.example.visura.prototype_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64962998833-f6cfefqf5einktlj8nadjsqkja40a298.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3cy9huJtK-1MFYmI5lVW6tXzsBXjRyUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

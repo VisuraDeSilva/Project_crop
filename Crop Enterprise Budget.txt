@@ -1,0 +1,31 @@
+CROP ENTERPRISE BUDGET - 2015
+
+1. Target audience
+		Policy planners
+		Entrepreneurs
+		Researchers
+		Farmers
+
+2. Costs
+		Crop establishment
+		Crop management
+		Harvesting & processing
+
+3. Total cost
+4. Average yield & prices
+		Yield - number of kilograms per an acre
+		Production price - Rupees per a kilogram
+		Unit cost of production - Rupees per a kilogram
+
+5. Returns
+		Gross return
+		Net return
+
+6. Available crops
+		Chilli - Anuradhapura district
+		Soya bean - Anuradhapura district
+		Potato - Badulla district
+		Brinjal - Anuradhapura district
+		Cabbage - Nuwaraeliya district
+		Carrot - Nuwaraeliya district
+		Leeks - Nuwaraeliya district
